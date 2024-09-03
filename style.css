@@ -1,3 +1,11 @@
+.site{
+    background-color:dodgerblue ;
+}
+.site2{
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
 .cadu{
     width: 400px;
     height: 400px;
