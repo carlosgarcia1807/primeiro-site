@@ -13,4 +13,17 @@
 .fotos img{
     width: 400px;
     height: 400px;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.link{
+    background-color: aqua;
+    color: azure;
+    padding: 4px;
+    margin-right: 8px;
+}
+.imagem{
+    width: 1500px;
+    height: 700px;
 }
